@@ -24,8 +24,9 @@ Aplicação web responsiva apenas com html5 e css
 
 ```
 - cd teste-agenciaweber-html-css.
-- code . ou abra a pasta teste-agenciaweber-html-css no editor de texto.
+- cd desenvolvimento
+- code . ou abra a pasta desenvolvimento no editor de texto.
 - dentro do Vs code, click no botão direito do mouse e clique em 'open with live server'
-- ou abra o arquivo index.html na pasta teste-agenciaweber-html-css
+- ou abra o arquivo index.html na pasta desenvolvimento
 ```
 
